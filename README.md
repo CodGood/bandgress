@@ -1,6 +1,6 @@
 # bandgress
 
-## agora temos um git compartihado
+## Agora temos um Git compartilhado
 
 
         *__
