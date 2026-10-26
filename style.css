@@ -1,0 +1,22 @@
+:root {
+  --fundo: #1b070e;
+  --texto: #cfbeb2;
+  --destaque: #d38962;
+ 
+  /* as outras 5, guardadas para usar depois */
+  --roxo-escuro: #272146;
+  --roxo-acinzentado: #463b4b;
+  --verde-azulado: #3d5b5c;
+  --verde-acinzentado: #717c6d;
+  --marrom: #815a47;
+}
+ 
+body {
+  background-color: var(--fundo);
+  color: var(--texto);
+}
+ 
+/* h1 = o título */
+h1 {
+  color: var(--destaque);
+}
